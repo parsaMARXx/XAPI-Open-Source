@@ -1,0 +1,6 @@
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\bin\Release\XAPI.dll
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\bin\Release\XAPI.pdb
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Release\XAPI.csproj.AssemblyReference.cache
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Release\XAPI.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Release\XAPI.dll
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Release\XAPI.pdb

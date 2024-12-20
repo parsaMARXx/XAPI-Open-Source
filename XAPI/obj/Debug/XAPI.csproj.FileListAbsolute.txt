@@ -1,0 +1,12 @@
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\bin\Debug\XAPI.dll
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\bin\Debug\XAPI.pdb
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Debug\XAPI.csproj.AssemblyReference.cache
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Debug\XAPI.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Debug\XAPI.dll
+C:\Users\MacBook Pro\Desktop\cxapis\cxapis\obj\Debug\XAPI.pdb
+C:\Users\MacBook Pro\Desktop\cxapis\XAPI\bin\Debug\XAPI.dll
+C:\Users\MacBook Pro\Desktop\cxapis\XAPI\bin\Debug\XAPI.pdb
+C:\Users\MacBook Pro\Desktop\cxapis\XAPI\obj\Debug\XAPI.csproj.AssemblyReference.cache
+C:\Users\MacBook Pro\Desktop\cxapis\XAPI\obj\Debug\XAPI.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Pro\Desktop\cxapis\XAPI\obj\Debug\XAPI.dll
+C:\Users\MacBook Pro\Desktop\cxapis\XAPI\obj\Debug\XAPI.pdb

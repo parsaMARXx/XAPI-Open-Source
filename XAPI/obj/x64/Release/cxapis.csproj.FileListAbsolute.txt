@@ -1,0 +1,6 @@
+C:\Users\lucab\source\repos\cxapis\cxapis\bin\x64\Release\cxapis.dll
+C:\Users\lucab\source\repos\cxapis\cxapis\bin\x64\Release\cxapis.pdb
+C:\Users\lucab\source\repos\cxapis\cxapis\obj\x64\Release\cxapis.csproj.AssemblyReference.cache
+C:\Users\lucab\source\repos\cxapis\cxapis\obj\x64\Release\cxapis.csproj.CoreCompileInputs.cache
+C:\Users\lucab\source\repos\cxapis\cxapis\obj\x64\Release\cxapis.dll
+C:\Users\lucab\source\repos\cxapis\cxapis\obj\x64\Release\cxapis.pdb
